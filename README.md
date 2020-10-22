@@ -2,7 +2,7 @@
 ### Unitary Fund group meeting | 22 Oct 2020
 
 
-> Try running the presentation Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crazy4pi314/uf-qsharp-intro/master?filepath=presentation.ipynb)
+> Try running the presentation Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crazy4pi314/uf-qsharp-intro/main?filepath=presentation.ipynb)
 > 
 
 
